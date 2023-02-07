@@ -2,4 +2,4 @@
 
 ## Example
 
-[https://github.com/Thiago099/veitch-karnaugh-ai-example](source code)
+(source code)[https://github.com/Thiago099/veitch-karnaugh-ai-example]
