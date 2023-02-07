@@ -28,5 +28,12 @@ for(const item of x) {
     console.log(model.predict(item));
 }
 ```
+output
+```js
+[ 0, 1 ]
+[ 1, 0 ]
+[ 1, 0 ]
+[ 0, 1 ]
+```
 
 [source code](https://github.com/Thiago099/veitch-karnaugh-ai-example)
