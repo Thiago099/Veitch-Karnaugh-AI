@@ -4,6 +4,10 @@ This is an boolean algebra based AI model, made using the Veitch Karnaugh map. I
 
 ## Example
 
+logic of this example:
+
+The first two inputs are the outputs if the last input is 0 otherwise it is them reversed.
+
 ```js
 import { train } from 'veitch-karnaugh-ai';
 
