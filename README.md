@@ -6,7 +6,7 @@ This is an boolean algebra based AI model, made using the Veitch Karnaugh map. I
 
 logic of this example:
 
-The first two inputs are the outputs if the last input is 0 otherwise it is them reversed.
+The first two inputs are the outputs if the last input is 0 otherwise they are reversed.
 
 ```js
 import { train } from 'veitch-karnaugh-ai';
