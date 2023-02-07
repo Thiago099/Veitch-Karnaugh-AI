@@ -1,7 +1,7 @@
-import { generate_binary_combinations } from './bin/binary-combinations.js'
-import { find_next_section } from './bin/find-next-section.js'
-import { array2d, tile } from './bin/utils.js'
-import { result } from './bin/result.js'
+import { generate_binary_combinations } from './src/binary-combinations.js'
+import { find_next_section } from './src/find-next-section.js'
+import { array2d, tile } from './src/utils.js'
+import { result } from './src/result.js'
 class Model{
     constructor(logic){
         this.logic = logic

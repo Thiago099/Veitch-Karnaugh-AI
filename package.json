@@ -1,0 +1,23 @@
+{
+  "name": "veitch-karnaugh-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "bin": {
+    "veitch-karnaugh-ai": "bin/binary-combinations.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiago099/Veitch-Karnaugh-AI.git"
+  },
+  "keywords": [
+    "ai",
+    "boolean"
+  ],
+  "author": "Thiago Kaique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiago099/Veitch-Karnaugh-AI/issues"
+  },
+  "homepage": "https://github.com/Thiago099/Veitch-Karnaugh-AI#readme"
+}
