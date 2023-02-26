@@ -1,7 +1,8 @@
 # Veitch Karnaugh AI
 
 
-This project have exponencial computational cost
+This project have exponencial computational cost.
+
 This is an boolean algebra based AI model, made using the Veitch Karnaugh map. It only works with zeros and ones
 
 ## Example
