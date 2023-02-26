@@ -1,6 +1,8 @@
 # Veitch Karnaugh AI
 
-This is an boolean algebra based AI model, made using the Veitch Karnaugh map. It only works with zeros and ones, but it is much faster than neural networks both for running and for training
+
+This project have exponencial computational cost
+This is an boolean algebra based AI model, made using the Veitch Karnaugh map. It only works with zeros and ones
 
 ## Example
 
